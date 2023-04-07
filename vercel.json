@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "http://probebe.iocky.com/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "http://probebe.iocky.com/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "http://probebe.iocky.com/map"
+        },
+        {
+            "src": "/i",
+            "dest": "http://probebe.iocky.com/i"
+        },
+        {
+            "src": "/report",
+            "dest": "http://probebe.iocky.com/report"
+        }
+    ]
+}
